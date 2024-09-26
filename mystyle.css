@@ -1,0 +1,65 @@
+Css body {
+      background-color: cornsilk;
+      margin: 0;
+      padding: 0;
+      font-family: comic sans ms, cursive;
+}
+
+p {
+      font-size: 22px;
+      text-align: center;
+
+}
+
+.para {
+      text-align: left;
+      margin-left: 60px;
+}
+
+h2 {
+      text-align: center;
+}
+
+h3 {
+      margin-left: 30px;
+}
+
+header {
+      background-color: lightpink;
+      padding: 5px;
+      text-align: center;
+}
+
+footer {
+      background-color: lightpink;
+      padding: 15px;
+}
+
+figcaption {
+      font-size: 22px;
+      text-align: center;
+}
+
+.link-container {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+}
+
+.llink {
+      text-align: left;
+}
+
+.llink a {
+      color: rgb(255, 133, 208);
+      font-size: 20px;
+}
+
+.rlink {
+      text-align: right;
+}
+
+.rlink a {
+      color: rgb(255, 133, 208);
+      font-size: 20px;
+}
